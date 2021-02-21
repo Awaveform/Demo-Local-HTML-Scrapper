@@ -224,4 +224,4 @@ for el8 in finish_list_contacts_add:
         test_index += 1
 
 if test_index == 1:
-    print('- No contacts found -')
+    print('- No contacts were found -')
